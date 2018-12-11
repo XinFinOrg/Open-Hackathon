@@ -17,7 +17,8 @@ Your first step is to create an issue in the `hackathon-submissions` repository.
 
 Use your issue to talk with collaborators, brainstorm, and organize. Check out the other issues to see if there are participants who want to work on the same things.
 
-Members of the XinFin team will be able to point other participants to your issue (if it looks like they can help), help you with technical questions, or just offer support :)
+Members of the XinFin team will be able to point other participants to your issue (if it looks like they can help), help you with technical questions, or just offer support :).
+
 Use appropriate label according to the hackathon you are participating in i.e. use `OpenHackthon` label while creating an issue if you are paticipating in Open hackathon.
 You can use `LookingForTeammate` label to let people know you need a teamate.
 For more details checkout the labels available [here](https://github.com/XinFinOrg/Hackathon/labels).
