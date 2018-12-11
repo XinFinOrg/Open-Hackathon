@@ -2,7 +2,7 @@
 
 Welcome to the submission repository for the Hackathons associated with XinFin.
 
-You can read more about XinFin and it's protocol on the [Docs site](docs.xinfin.org).
+You can read more about XinFin and it's protocol on the [Docs site](https://docs.xinfin.org).
 
 # Submission Guidelines
 
@@ -19,7 +19,6 @@ Use your issue to talk with collaborators, brainstorm, and organize. Check out t
 
 Members of the XinFin team will be able to point other participants to your issue (if it looks like they can help), help you with technical questions, or just offer support :)
 
-Issue events will also be pulled into the Gitter feed [Gitter](__) which is a better place for more general discussion and chatting.
 
 ### 2) Build with XinFin
 Work on your project as you like. How you work is up to you; We recommend creating a new GitHub repo for your team. Remember to only begin working on your project after the hackathon begins!!
