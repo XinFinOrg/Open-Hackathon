@@ -8,7 +8,7 @@ We are looking forward to give bounties to projects surrounding XinFin's Problem
 
 <!-- Table Of Contents-->
 [What is XinFin?](#what-is-xinfin)<br>
-[What can you #BUIDLwithXinFin?](#what-can-you-buidlwithxinfin)<br>
+[What can you #BUILDwithXinFin?](#what-can-you-buidlwithxinfin)<br>
 [Bounties](#bounties)<br>
 [Prizes](#prizes)<br>
 [Judging Criteria](#judging-criteria)<br>
@@ -47,7 +47,7 @@ Allows Creation and Factoring of Invoices
 ### 5. MyContract.co
 Creates tokenization of any Kind of asset classes like community coins, Bonds, real estate, infrastructure
 
-## What can you #BUIDLwithXinFin?
+## What can you #BUILDwithXinFin?
 
 ### Instant token swaps
 Embed simple and atomic ERC20 <-> ERC20 token swaps in your application.
