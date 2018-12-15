@@ -56,7 +56,7 @@ Embed simple and atomic ERC20 <-> ERC20 token swaps in your application.
 Expand your payment options for your users by accepting not just ETH, but ERC20 tokens too. Empower your users with the freedom of choice in pay in their favourite tokens. [Peepeth](https://peepeth.com/a/crowdfunding) and [Etheremon](https://hackernoon.com/etheremon-integrates-with-kybers-on-chain-liquidity-protocol-a-new-payment-solution-for-ccbb36dfd595) are but some examples.
 
 ### On-chain Fund Rebalancing
-Achieve seamless liquidation of assets for immediate rebalancing of portfolios in a single transaction. Take a look at [b0x] (https://b0x.network/) and [Betoken] for a glimpse of what is possible!
+Achieve seamless liquidation of assets for immediate rebalancing of portfolios in a single transaction. Take a look at [b0x](https://b0x.network/) for a glimpse of what is possible!
 
 ### Arbitrage Programs
 Take advantage of market inefficiencies, since prices are not always the same across different price discovery venues, especially between off-chain and on-chain prices. Help improve price equilibrium across the market whilst profiting from it!
