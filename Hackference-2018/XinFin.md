@@ -1,5 +1,6 @@
 # Introduction to Solidity Slides
 
+https://docs.google.com/presentation/d/1NH98mdt3LgzpbR-tI_jkpFSkBq0KUwZ-8wQ1xNC4qRg/edit?usp=sharing
 
 
 # Hackathon Bounties
@@ -55,14 +56,14 @@ Embed simple and atomic ERC20 <-> ERC20 token swaps in your application.
 Expand your payment options for your users by accepting not just ETH, but ERC20 tokens too. Empower your users with the freedom of choice in pay in their favourite tokens. [Peepeth](https://peepeth.com/a/crowdfunding) and [Etheremon](https://hackernoon.com/etheremon-integrates-with-kybers-on-chain-liquidity-protocol-a-new-payment-solution-for-ccbb36dfd595) are but some examples.
 
 ### On-chain Fund Rebalancing
-Achieve seamless liquidation of assets for immediate rebalancing of portfolios in a single transaction. Take a look at [b0x](https://medium.com/@b0xNet/kyber-bzx-b6f5330289a6) and [Betoken](https://medium.com/betoken/6-primordial-reasons-to-build-a-decentralized-hedge-fund-with-kyber-1bbb3ed6a4d9) for a glimpse of what is possible!
+Achieve seamless liquidation of assets for immediate rebalancing of portfolios in a single transaction. Take a look at [b0x] (https://b0x.network/) and [Betoken] for a glimpse of what is possible!
 
 ### Arbitrage Programs
 Take advantage of market inefficiencies, since prices are not always the same across different price discovery venues, especially between off-chain and on-chain prices. Help improve price equilibrium across the market whilst profiting from it!
 
 If you need more ideas on what you can build, take a look at the bounties below!
 
-## Bounties
+
 
 ## Prizes
 Stand to win up to 300000 INR worth of XDC tokens for the themed bounty. The official Relay-Bridge and DPoS prize (Open Category) has a higher prize pool of 200000 INR worth of XDC tokens!
