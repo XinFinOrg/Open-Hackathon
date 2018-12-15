@@ -87,4 +87,7 @@ Something that makes us go "Wow!"
 ---
 
 ## Contacting Us
-We may have a booth set up during the hackathon, so drop by to meet us!
+We are available in the XinFin's conference room at Hackference 2018.
+
+Feel free to contact us and join our [Telegram Developer Group](https://t.me/XinFinDevelopers)
+
