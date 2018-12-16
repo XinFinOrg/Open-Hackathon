@@ -13,7 +13,7 @@ Here’s how it works:
 ## The Submission Process
 
 ### 1) Create an issue
-Your first step is to create an issue in the `hackathon-submissions` repository. This issue acts as a "soft" registration for the hackathon, and can help you to coordinate your ideas with other participants. An issue is a good place to talk openly about your project ideas with others before you decide on its exact scope.
+Your first step is to create an issue in the `XinFinOrg/Hackathon` repository. This issue acts as a "soft" registration for the hackathon, and can help you to coordinate your ideas with other participants. An issue is a good place to talk openly about your project ideas with others before you decide on its exact scope.
 
 Use your issue to talk with collaborators, brainstorm, and organize. Check out the other issues to see if there are participants who want to work on the same things.
 
