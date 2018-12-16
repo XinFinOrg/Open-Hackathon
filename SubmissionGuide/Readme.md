@@ -31,7 +31,7 @@ Use the issue you created in step 1 to let others know where your project lives.
 Wherever you work, remember that your project should include an **Open Source License** of [some form](https://opensource.org/licenses), and should be accessible to everyone after the submission deadline.
 
 ### 3) Fork and PR
-When you feel ready to submit, create a new fork of the colonyHackathon repo, and add your project as a markdown file inside `Hackathon-Submissions/Hackathon-Name/`.
+When you feel ready to submit, create a new fork of the colonyHackathon repo, and add your project as a markdown file inside `Hackathon/Hackathon-Name/`.
 Here `Hackathon-Name` is the hackathon for which you your proposing. For Open problem statements use `OpenHackthon` directory.
 
 You can use `SubmissionGuide/exampleSubmission.md` as a template if you like.
