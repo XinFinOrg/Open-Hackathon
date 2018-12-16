@@ -42,3 +42,8 @@ Below are the links to the specific problem statements for ongoing hackathons :
 ## Reference Material
 
 Link to reference repositories : [Reference](./References).
+
+## Contacting Us
+We are available in the XinFin's conference room at Hackference 2018.
+
+Feel free to contact us and join our [Telegram Developer Group](https://t.me/XinFinDevelopers)
