@@ -39,3 +39,4 @@ For e.g. : Right now there is not an efficient & secure system to maintain patie
 ## Reference Material
 
 Link to reference repositories : [Reference](../References).
+Read the latest article on SPIT [here](https://medium.com/xinfin/xinfin-and-spit-presents-hands-on-blockchain-workshop-a25695e61640) 
