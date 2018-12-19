@@ -36,3 +36,8 @@ This page contains the links to important references which participants can refe
 ## DAPPS Related References
 
 1. [Boilerplate DAPP](https://github.com/XinFinOrg/dapp-boilerplate).
+
+2. [Dapp tutorial](https://docs.google.com/presentation/d/1XKhsEttbsRbdIouG65KWarMLmQDvJQDWIAywfQ4aNCE/edit?usp=sharing).
+
+## Solidity Related References
+1. [Solidity docs](https://docs.google.com/presentation/d/1NH98mdt3LgzpbR-tI_jkpFSkBq0KUwZ-8wQ1xNC4qRg/edit?usp=sharing).
