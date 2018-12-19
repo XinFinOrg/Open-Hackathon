@@ -30,6 +30,12 @@ We need to find out innovative solution to replace PoW Consensus with other Cons
 
 Various blockchain need to connect to each other to create more efficiency in system. Like Bitcoin, Ripple and IOTA. We need to Create Bridge between various blockchain.
 
+### XDCE Token Staking Function.
+
+A staking mechanism requires users who offer compute power or other resources to the service takers in the ecosystem to put up a portion of their tokens in order to do so. If a user has no tokens to stake, but wants to support the network by providing resources they must purchase them. In exchange for staking their tokens and providing the service a financial reward is received. By forcing providers to take a financial risk you are weeding out bad actors.
+
+Read more detailed requirement [here](https://github.com/XinFinOrg/Hackathon/blob/master/OpenHackathon/XDCE_Staking_Function.md)
+
 
 ## For Hackathons
 
