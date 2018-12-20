@@ -19,6 +19,7 @@ The project was built with contributions from:
 
 - Punit (@punit-agarwal on GitHub, punit@xinfin.org)
 - Rudresh (@rudreshsolanki97 on Github, rudresh@xinfin.org)
+- Akshay (@akshaypilankar on Github, akshay@xinfin.org)
 
 ---
 
