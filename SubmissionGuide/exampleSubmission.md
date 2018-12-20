@@ -17,8 +17,8 @@ https://github.com/username_or_organization/exampleProject/commit/793fafb21efbbe
 ### Team
 The project was built with contributions from:
 
-- Griffin (@gichiba on GitHub, griffin@colony.io)
-- Foo (@f00 on Github, foo@bar.io)
+- Punit (@punit-agarwal on GitHub, punit@xinfin.org)
+- Rudresh (@rudreshsolanki97 on Github, rudresh@xinfin.org)
 
 ---
 
