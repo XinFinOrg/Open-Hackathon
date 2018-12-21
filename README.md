@@ -26,29 +26,6 @@ Restriction numbers of node make its more centralized while large number of node
 Many industry experts are trying out different consensus like DPoS.
 We need to find out innovative solution to replace PoW Consensus with other Consensus which gives more efficiency, speed and less energy consumption.
 
-### Task 2 : Cross Blockchain Interoperability.
-
-Various blockchain need to connect to each other to create more efficiency in system. Like Bitcoin, Ripple and IOTA. We need to Create Bridge between various blockchain.
-
-### Task 3 : XDCE Token Staking Function.
-
-A staking mechanism requires users who offer compute power or other resources to the service takers in the ecosystem to put up a portion of their tokens in order to do so. If a user has no tokens to stake, but wants to support the network by providing resources they must purchase them. In exchange for staking their tokens and providing the service a financial reward is received. By forcing providers to take a financial risk you are weeding out bad actors.
-
-Read more detailed requirement [here](https://github.com/XinFinOrg/Hackathon/blob/master/OpenHackathon/XDCE_Staking_Function.md)
-
-
-## For Hackathons
-
-Below are the links to the specific problem statements for ongoing hackathons :
-
-* [SPIT Hackathon](./SPIT/ReadMe.md).
-* [Hackference](./Hackference-2018/ReadMe.md).
-
-
-## References
-
-This page contains the links to important references which participants can refer & get some base code to work on, hence saving time to code everything from scratch.
-
 ### Consensus Related References
 
 1. DPOS :
@@ -74,11 +51,22 @@ This page contains the links to important references which participants can refe
 
 3. [Bitcoin](https://github.com/bitcoin/bitcoin).
 
+
+### Task 2 : Cross Blockchain Interoperability.
+
+Various blockchain need to connect to each other to create more efficiency in system. Like Bitcoin, Ripple and IOTA. We need to Create Bridge between various blockchain.
+
 ### Blockchain Interoperability References
 
 1. [Parity-Bridge](https://github.com/paritytech/parity-bridge).
 
 2. [BTCRelay](https://github.com/ethereum/btcrelay).
+
+### Task 3 : XDCE Token Staking Function.
+
+A staking mechanism requires users who offer compute power or other resources to the service takers in the ecosystem to put up a portion of their tokens in order to do so. If a user has no tokens to stake, but wants to support the network by providing resources they must purchase them. In exchange for staking their tokens and providing the service a financial reward is received. By forcing providers to take a financial risk you are weeding out bad actors.
+
+Read more detailed requirement [here](https://github.com/XinFinOrg/Hackathon/blob/master/OpenHackathon/XDCE_Staking_Function.md)
 
 ### DAPPS Related References
 
@@ -88,6 +76,14 @@ This page contains the links to important references which participants can refe
 
 ### Solidity Related References
 1. [Solidity docs](https://docs.google.com/presentation/d/1NH98mdt3LgzpbR-tI_jkpFSkBq0KUwZ-8wQ1xNC4qRg/edit?usp=sharing).
+
+
+## For Hackathons
+
+Below are the links to the specific problem statements for ongoing hackathons :
+
+* [SPIT Hackathon](./SPIT/ReadMe.md).
+* [Hackference](./Hackference-2018/ReadMe.md).
 
 
 ## Contacting Us
