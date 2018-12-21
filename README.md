@@ -18,7 +18,7 @@ Below we have listed the problem statements which are open to all. In order to p
 
 Prizes upto $10000 USD worth of XDC will be given if your solution is expected.
 
-### Change Proof of Work (PoW) Consensus in blockchain
+### Task 1 : Change Proof of Work (PoW) Consensus in blockchain
 
 Too much energy consumption makes PoW consensus non practical and not suitable for real world system.
 We need to find out other innovative consensus where transaction and network remains de-centralised but without much energy consumption.
@@ -26,11 +26,11 @@ Restriction numbers of node make its more centralized while large number of node
 Many industry experts are trying out different consensus like DPoS.
 We need to find out innovative solution to replace PoW Consensus with other Consensus which gives more efficiency, speed and less energy consumption.
 
-### Cross Blockchain Interoperability.
+### Task 2 : Cross Blockchain Interoperability.
 
 Various blockchain need to connect to each other to create more efficiency in system. Like Bitcoin, Ripple and IOTA. We need to Create Bridge between various blockchain.
 
-### XDCE Token Staking Function.
+### Task 3 : XDCE Token Staking Function.
 
 A staking mechanism requires users who offer compute power or other resources to the service takers in the ecosystem to put up a portion of their tokens in order to do so. If a user has no tokens to stake, but wants to support the network by providing resources they must purchase them. In exchange for staking their tokens and providing the service a financial reward is received. By forcing providers to take a financial risk you are weeding out bad actors.
 
@@ -45,11 +45,11 @@ Below are the links to the specific problem statements for ongoing hackathons :
 * [Hackference](./Hackference-2018/ReadMe.md).
 
 
-### References
+## References
 
 This page contains the links to important references which participants can refer & get some base code to work on, hence saving time to code everything from scratch.
 
-## Consensus Related References
+### Consensus Related References
 
 1. DPOS :
       * [XDPOS](https://github.com/riteshkakkad/XDPOS).
@@ -66,7 +66,7 @@ This page contains the links to important references which participants can refe
 
 [Comparision ( POSV vs Clique )](./Comparision_POSV_Clique.html).
 
-## Blockchain Related References
+### Blockchain Related References
 
 1. [XDC Nodes](https://github.com/XinFinOrg/XDC01-docker-Nnodes).
 
@@ -74,19 +74,19 @@ This page contains the links to important references which participants can refe
 
 3. [Bitcoin](https://github.com/bitcoin/bitcoin).
 
-## Blockchain Interoperability References
+### Blockchain Interoperability References
 
 1. [Parity-Bridge](https://github.com/paritytech/parity-bridge).
 
 2. [BTCRelay](https://github.com/ethereum/btcrelay).
 
-## DAPPS Related References
+### DAPPS Related References
 
 1. [Boilerplate DAPP](https://github.com/XinFinOrg/dapp-boilerplate).
 
 2. [Dapp tutorial](https://docs.google.com/presentation/d/1XKhsEttbsRbdIouG65KWarMLmQDvJQDWIAywfQ4aNCE/edit?usp=sharing).
 
-## Solidity Related References
+### Solidity Related References
 1. [Solidity docs](https://docs.google.com/presentation/d/1NH98mdt3LgzpbR-tI_jkpFSkBq0KUwZ-8wQ1xNC4qRg/edit?usp=sharing).
 
 
