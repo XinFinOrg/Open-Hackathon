@@ -41,7 +41,7 @@ d. [Ethereum's Proof of Stake ( casper )](https://github.com/ethereum/casper).
 
 e. [Proof of Stake-Velocity ( POSV )](https://github.com/tomochain/tomochain).
 
-[Comparision ( POSV vs Clique )](./Comparision_POSV_Clique.html).
+f. [Comparision ( POSV vs Clique )](./Comparision_POSV_Clique.html).
 
 ### Blockchain Related References
 
