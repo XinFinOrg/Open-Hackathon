@@ -18,7 +18,7 @@ Below we have listed the problem statements which are open to all. In order to p
 
 Prizes upto $10000 USD worth of XDC will be given if your solution is expected.
 
-### Task 1 : Change Proof of Work (PoW) Consensus in blockchain
+## Task 1 : Change Proof of Work (PoW) Consensus in blockchain
 
 Too much energy consumption makes PoW consensus non practical and not suitable for real world system.
 We need to find out other innovative consensus where transaction and network remains de-centralised but without much energy consumption.
@@ -52,7 +52,7 @@ We need to find out innovative solution to replace PoW Consensus with other Cons
 3. [Bitcoin](https://github.com/bitcoin/bitcoin).
 
 
-### Task 2 : Cross Blockchain Interoperability.
+## Task 2 : Cross Blockchain Interoperability.
 
 Various blockchain need to connect to each other to create more efficiency in system. Like Bitcoin, Ripple and IOTA. We need to Create Bridge between various blockchain.
 
@@ -62,7 +62,7 @@ Various blockchain need to connect to each other to create more efficiency in sy
 
 2. [BTCRelay](https://github.com/ethereum/btcrelay).
 
-### Task 3 : XDCE Token Staking Function.
+## Task 3 : XDCE Token Staking Function.
 
 A staking mechanism requires users who offer compute power or other resources to the service takers in the ecosystem to put up a portion of their tokens in order to do so. If a user has no tokens to stake, but wants to support the network by providing resources they must purchase them. In exchange for staking their tokens and providing the service a financial reward is received. By forcing providers to take a financial risk you are weeding out bad actors.
 
