@@ -28,28 +28,28 @@ We need to find out innovative solution to replace PoW Consensus with other Cons
 
 ### Consensus Related References
 
-1. DPOS :
+a. DPOS :
       * [XDPOS](https://github.com/riteshkakkad/XDPOS).
       * [EOS](https://github.com/EOSIO).
       * [TRON](https://github.com/tronprotocol/java-tron).
 
-2. [Ethereum's Proof of Work ( ethash )](https://github.com/ethereum/go-ethereum/tree/master/consensus/ethash).
+b. [Ethereum's Proof of Work ( ethash )](https://github.com/ethereum/go-ethereum/tree/master/consensus/ethash).
 
-3. [Ethereum's Proof of Authority ( clique )](https://github.com/ethereum/go-ethereum/tree/master/consensus/clique).
+c. [Ethereum's Proof of Authority ( clique )](https://github.com/ethereum/go-ethereum/tree/master/consensus/clique).
 
-4. [Ethereum's Proof of Stake ( casper )](https://github.com/ethereum/casper).
+d. [Ethereum's Proof of Stake ( casper )](https://github.com/ethereum/casper).
 
-5. [Proof of Stake-Velocity ( POSV )](https://github.com/tomochain/tomochain).
+e. [Proof of Stake-Velocity ( POSV )](https://github.com/tomochain/tomochain).
 
 [Comparision ( POSV vs Clique )](./Comparision_POSV_Clique.html).
 
 ### Blockchain Related References
 
-1. [XDC Nodes](https://github.com/XinFinOrg/XDC01-docker-Nnodes).
+a. [XDC Nodes](https://github.com/XinFinOrg/XDC01-docker-Nnodes).
 
-2. [Ethereum](https://github.com/ethereum/go-ethereum).
+b. [Ethereum](https://github.com/ethereum/go-ethereum).
 
-3. [Bitcoin](https://github.com/bitcoin/bitcoin).
+c. [Bitcoin](https://github.com/bitcoin/bitcoin).
 
 
 ## Task 2 : Cross Blockchain Interoperability.
@@ -58,9 +58,9 @@ Various blockchain need to connect to each other to create more efficiency in sy
 
 ### Blockchain Interoperability References
 
-1. [Parity-Bridge](https://github.com/paritytech/parity-bridge).
+a. [Parity-Bridge](https://github.com/paritytech/parity-bridge).
 
-2. [BTCRelay](https://github.com/ethereum/btcrelay).
+b. [BTCRelay](https://github.com/ethereum/btcrelay).
 
 ## Task 3 : XDCE Token Staking Function.
 
