@@ -1,6 +1,6 @@
 ##   Setting up private blockchain
 
-1.  Compile geth by cloning the following link: https://github.com/EcoChain/Go-Ethereum.git
+1.  Compile geth by cloning the following link: https://github.com/ethereum/go-ethereum
 
 2.  Define the genesis file:
 Save this genesis as genesis.json file in a folder name: xyz
