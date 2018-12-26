@@ -28,10 +28,10 @@ We need to find out innovative solution to replace PoW Consensus with other Cons
 
 ### Consensus Related References
 
-a. DPOS :
-      * [XDPOS](https://github.com/riteshkakkad/XDPOS).
-      * [EOS](https://github.com/EOSIO).
-      * [TRON](https://github.com/tronprotocol/java-tron).
+a. DPOS
+  * [XDPOS](https://github.com/riteshkakkad/XDPOS).
+  * [EOS](https://github.com/EOSIO).
+  * [TRON](https://github.com/tronprotocol/java-tron).
 
 b. [Ethereum's Proof of Work ( ethash )](https://github.com/ethereum/go-ethereum/tree/master/consensus/ethash).
 
