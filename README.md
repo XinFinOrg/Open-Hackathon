@@ -43,6 +43,8 @@ e. [Proof of Stake-Velocity ( POSV )](https://github.com/tomochain/tomochain).
 
 f. [Comparision ( POSV vs Clique )](./Comparision_POSV_Clique.html).
 
+g. [Smart contracts for PoS ](https://github.com/poanetwork/pos-contracts).
+
 ### Blockchain Related References
 
 a. [XDC Nodes](https://github.com/XinFinOrg/XDC01-docker-Nnodes).
