@@ -91,3 +91,5 @@ Below are the links to the specific problem statements for ongoing hackathons :
 ## Contacting Us
 
 Join our [Telegram Developer Group](https://t.me/XinFinDevelopers) and put up your queries. We would love to answer your questions.
+
+You can also join our [Public Slack Group](https://launchpass.com/xinfin-public). Enter your E-mail ID and you will get an invite to our slack.
