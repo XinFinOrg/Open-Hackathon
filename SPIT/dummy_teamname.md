@@ -4,8 +4,14 @@
 An Organization (Ex:Coursera) is verified using the RSA algorithm before the certificate is uploaded on the blockchain.If the Organization is faulty the transaction will be reverted.Once the certificate is uploaded on the blockchain it is displayed on the users' portal.The user can then send this certificate to the verifier for verification. The certificate along with the transaction hash is sent to the verifier. The verifier can then retrieve the certificate hash from the blockchain using the transaction hash and match it with the certificate hash received by the user.
 
 ## Functions
+1. Ensure authentic certificates can be verified
+2. No possible way that someone can copy the whole process to create
+inauthentic certificate
+3. We hash the certificate that is to be issued by a certain party
+4. The hash of certificate is available on the blockchain, thus confirming that the certificate was indeed issued by a legitimate party. If the hash is found, then the certificate is authentic.
 
 ## Use case diagram link
+
 
 ## Technology stack / technology used ( Very Detailed )
 1. Hybrid Blockchain - It is a combination of public and private blockchain used by individuals to reap their benefits.
