@@ -20,8 +20,8 @@ Original model weights and configuration can be found here - https://pjreddie.co
 API used to fine-tune/test/deploy model along with detailed instructions to train custom model - https://github.com/thtrieu/darkflow
 Google-images-download - https://github.com/hardikvasa/google-images-download
 
-The DarkFlow library was used as the documentation for TensorFlow's object detection API is scarce and scattered all over the internet.
-TensorFlow's API does provide a guide to setup the model but there is no how-to which tells how to train/test/deploy a custom model.
+The DarkFlow library was used as the documentation for TensorFlow's object detection API is scarce and scattered all over the internet. <br>
+TensorFlow's API does provide a guide to setup the model but there is no how-to which tells how to train/test/deploy a custom model. <br>
 
 Role of Machine Learning
 Multiple models for the crop will be trained as per requirement of the crop.
