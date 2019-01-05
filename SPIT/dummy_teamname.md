@@ -38,19 +38,19 @@ As soon as the model recognises a bad tomato, the frame along with the bounding 
 
 
 ## Limitations
-For each crop more than 1 model has to be fine-tuned/trained, tested and deployed. <br>
-This totally depends on the cooperation of the transportation company. Any tampering with the hardware will be reported back to us. <br>
-In case the hardware is damaged we will have to take full responsibility and repair it in time. <br>
-In case of evidence of any tampering, the transportation company will be held liable for it. <br>
-For every crop yield the quality of the crop is determined differently so the tech stack has to be finely tuned to match that crop’s needs. Also if multiple crops are being transported in the same vehicle, we will have to fit multiple sets of our technology. <br>
+1. For each crop more than 1 model has to be fine-tuned/trained, tested and deployed. <br>
+2. This totally depends on the cooperation of the transportation company. Any tampering with the hardware will be reported back to us. <br>
+3. In case the hardware is damaged we will have to take full responsibility and repair it in time. <br>
+4. In case of evidence of any tampering, the transportation company will be held liable for it. <br>
+5. For every crop yield the quality of the crop is determined differently so the tech stack has to be finely tuned to match that crop’s needs. Also if multiple crops are being transported in the same vehicle, we will have to fit multiple sets of our technology. <br>
 
 
 ## Future Aspects
-Can be used to judge driver performance. <br>
-The IoT system deployed can be used to warn the driver of any and all mishaps such as the cargo door opening up during commute
-Can be expanded to other perishable items such as volatile chemicals. <br>
-Will help set a standard and enforce it across all transportation companies. <br>
-Can be expanded to a transportation company of its own. <br>
+1. Can be used to judge driver performance. <br>
+2. The IoT system deployed can be used to warn the driver of any and all mishaps such as the cargo door opening up during commute
+3. Can be expanded to other perishable items such as volatile chemicals. <br>
+4. Will help set a standard and enforce it across all transportation companies. <br>
+5. Can be expanded to a transportation company of its own. <br>
 
 
 ## github project link
