@@ -38,6 +38,9 @@ https://github.com/regalstreak/SafeMed
 
 ## Contact info ( emailid - github id )
 regalstreak@gmail.com - https://github.com/regalstreak
+
 anirudh.b.120@gmail.com	 - https://github.com/anirudh1200
+
 kolisomesh27@gmail.com - https://github.com/someshkoli
+
 aryanlikhite@gmail.com - https://github.com/Rex1911
