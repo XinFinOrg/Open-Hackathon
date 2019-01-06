@@ -7,10 +7,43 @@ Saying that the Indian farmer today faces a lot of problems is an understatement
 We aim the solve this problem using blockchain and some other technologies as well.
 
 ## Functions
+Enter journey details - It takes care of all the credentials of a particular journey. Credentials coded - 
+	moduleInstructions (temperature and humidity from sensor)
+	time - timestamp of the block
+	driverName - name of driver
+	farmerName - name of farmer
+	from(source) - location of loading of crop batch
+	to(destination) - delivery location
+	dataId 
+
+View blockchain data
 
 ## Use case diagram link
 
-## Technology stack / technology used ( Very Detailed )
+## Technology stack / technology used
+NodeJs
+Language - JavaScript
+Dependancies - web3js, ganache-cli, express-server
+
+web3js - This is the official ehtereum javascript API. It is used to interact with ethereum smart contracts. It is a collection of modules which contrain specific functionality for the ethereum ecosystem.
+https://github.com/ethereum/web3.js/
+
+ganache-cli - Previously known as TestRPC uses ethereumJs to simulate full client behaviour and makes developing ethereum applications faster and easier. Because it's based on NodeJs, we need NodeJs installed along with npm. Now, instead of deploying and testing in JS virtual machine we are now using ganache-cli client on our local machine.
+https://github.com/trufflesuite/ganache-cli
+
+express-server - It is a javascript framework used to create API calls. 
+https://expressjs.com/
+
+Remix-IDE
+Language - Solidity
+We have used solidity to write smart contracts. Remix helps in compilation of the smart contract
+https://github.com/ethereum/remix-ide
+
+Raspberry Pi
+Sensor used - DHT11 
+Language used - Shell, Python
+https://www.instructables.com/id/DHT11-on-Raspberry-PI/
+
 
 Machine Learning (Object detection and recognition) <br>
 Language used - Python 3 <br>
