@@ -13,13 +13,12 @@ THe medical records system followed by doctors right now is totally offline and 
 ![alt text](pic.png)
 ## Technology stack / technology used ( Very Detailed )
 
-languages, frameworks, libraries etc. with their need & purpose
-Front-end: React - Truffle Box react-uport - Used for easy implementation of Uport, Also, React is used for the same reason too 
-Pure CSS was used along with React for styling.
-Uport was used to provide open accountability system.
-Back-end: Solidity - Smart Contratcs - For Blockchain for storing records
+Front-end: React - Truffle Box react-uport - Used for easy implementation of Uport, Also, React is used for the same reason too<br> 
+Pure CSS was used along with React for styling.<br>
+Uport was used to provide open accountability system.<br>
+Back-end: Solidity - Smart Contratcs - For Blockchain for storing records<br>
 BlockChain: Ethereum (XDC was used earlier but couldn't be used further due to migration error)
-
+<br>
 ## Limitations
 The front-end is setup and the smart contracts have been made but web3.js integration couldn't be implemented.
 ## Future Aspects
