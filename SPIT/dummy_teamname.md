@@ -90,6 +90,6 @@ As soon as the model recognises a bad tomato, the frame along with the bounding 
 
 ## Contact info ( emailid - github id )
 
-tanmaybhatnagar84976@gmail.com - github.com/tanmay-bhatnagar <br>
-anshgujral1997@gmail.com - github.com/gujral1997 <br>
-tathagat.thapliyal@gmail.com - github.com/tathagat2006 <br>
+tanmaybhatnagar84976@gmail.com - @tanmay-bhatnagar <br>
+anshgujral1997@gmail.com - @gujral1997 <br>
+tathagat.thapliyal@gmail.com - @tathagat2006 <br>
