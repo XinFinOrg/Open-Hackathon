@@ -50,6 +50,6 @@ There should be a Authority who gives access rights to users
 swapnilshinde2000867
 
 ## Contact info ( emailid - github id )
-Rahul Sawantdesai - rahul.sawant17@siesgst.ac.in  
-Swapnil Satish Shinde - swapnil.satish17@siesgst.ac.in  
-Shambhavi Sudarsan - shambhavi.sudarsan17@siesgst.ac.in  
+Rahul Sawantdesai - rahul.sawant17@siesgst.ac.in  - rsd511
+Swapnil Satish Shinde - swapnil.satish17@siesgst.ac.in  - Swap76
+Shambhavi Sudarsan - shambhavi.sudarsan17@siesgst.ac.in  - shambhavisudarsan
