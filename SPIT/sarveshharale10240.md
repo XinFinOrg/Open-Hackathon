@@ -16,7 +16,7 @@ By deploying all the data on the blockchain, the PDS outlet dealer has no power 
 ## Technology stack / technology used ( Very Detailed )
 - Languagues Used: Python, Javascript, Java, HTML, CSS, Bootstrap, Truffle, Web3
 - Frameworks: Flask
-- Libraries: pyotp, socket, mysqlalchemy, pymysql, session, 
+- Libraries: pyotp, socket, sqlalchemy
  
  with their need & purpose
 
