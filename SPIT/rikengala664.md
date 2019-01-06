@@ -30,7 +30,8 @@ Data Flow:
 -	To reduce energy consumption as compared to PoW implementations.
 
 ## Use case diagram link
-https://ibb.co/DRM7crL
+Stake distribution: https://ibb.co/DRM7crL
+Data flow: https://drive.google.com/file/d/12LoWMoj4O9MDFIKRJv3UkZYPpOJ9zxKb/view
 
 ## Technology stack / technology used ( Very Detailed )
 -	Languages: 
