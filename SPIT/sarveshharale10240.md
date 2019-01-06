@@ -40,7 +40,7 @@ to consumption by beneficiaries thereby increasing transparency and accountabili
 
 ## Contact Info 
 Teamid: sarveshharale10240
-Sarvesh Harale: sarveshharale10@gmail.com Github: https://github.com/sarveshharale10
-Jatin Varlyani: varlyanijatin88@gmail.com Github: https://github.com/Jatin-8898
-Ajay Yadav: ajayyadavfs80@gmail.com Github: https://gihub.com/ajayyadav80
-Prathamesh Shinde: prathameshshinde.3232@gmail.com Github: https://github.com/paddy32
+1. Sarvesh Harale: sarveshharale10@gmail.com          Github: https://github.com/sarveshharale10
+2. Jatin Varlyani: varlyanijatin88@gmail.com          Github: https://github.com/Jatin-8898
+3. Ajay Yadav: ajayyadavfs80@gmail.com                Github: https://gihub.com/ajayyadav80
+4. Prathamesh Shinde: prathameshshinde.3232@gmail.com Github: https://github.com/paddy32
