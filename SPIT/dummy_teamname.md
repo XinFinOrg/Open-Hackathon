@@ -45,4 +45,8 @@ If an organization has to upload many certificates, instead of uploading each an
 
 ## Github project link: https://github.com/harsh9500/Certification
 
-## Contact info ( emailid - github id ): harsh9500@rediffmail.com - harsh9500
+## Contact info ( emailid - github id ): 
+harsh9500@rediffmail.com - harsh9500
+harshitaskh@gmail.com - tenzu15
+shreeyaa98@gmail.com - shreeyaaa98
+farhankasmani956@gmail.com - FarhanKasmani
