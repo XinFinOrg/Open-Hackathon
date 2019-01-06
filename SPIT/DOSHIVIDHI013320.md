@@ -37,6 +37,7 @@ The front-end is setup and the smart contracts have been made but web3.js integr
 5. Verification of a person's death certificate.
 
 ## github project link
+https://github.com/VidhiDoshi123/HealthCare-Management-
 
 ## teamcode
 Code: doshividhi013320
