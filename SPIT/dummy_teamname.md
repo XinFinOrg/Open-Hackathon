@@ -16,9 +16,15 @@ Enter journey details - It takes care of all the credentials of a particular jou
 	to(destination) - delivery location
 	dataId 
 
-View blockchain data
+View blockchain data - Display the blockchain data
+
+Fetch sensor data - Fetches the data from temperature and humidity sensor and the machine learning model (if the model pings) and then pushes it to the blockchain using the push sensor data function
+
+Push sensor data - Pushes the sensor data to the blockchain
 
 ## Use case diagram link
+
+https://drive.google.com/open?id=1fXc0qAfXdazTjzajnwSspe7KeTQnz6UM
 
 ## Technology stack / technology used
 NodeJs
@@ -41,7 +47,7 @@ https://github.com/ethereum/remix-ide
 
 Raspberry Pi
 Sensor used - DHT11 
-Language used - Shell, Python
+Language used - Shell, Python 2.7
 https://www.instructables.com/id/DHT11-on-Raspberry-PI/
 
 
