@@ -82,7 +82,7 @@ Read more detailed requirement [here](https://github.com/XinFinOrg/Hackathon/blo
 
 ## For Hackathons
 
-Below are the links to the specific problem statements for ongoing hackathons :
+Below are the links to the specific problem statements for previously held hackathons. Join our [Public Slack Group](https://launchpass.com/xinfin-public) to stay updated with ongoing XinFin events.
 
 * [SPIT Hackathon](./SPIT/ReadMe.md).
 * [Hackference](./Hackference-2018/ReadMe.md).
