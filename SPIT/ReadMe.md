@@ -6,15 +6,17 @@ To innovate and replace existing non-efficient closed systems with more transpar
 <img src="../metaData/SPIT_banner.jpeg" alt="XinFin as technical sponsor at SPIT Hackathon">
 
 
-## NOTE :
-1. Each problem statement is designed to be a strong, practical blockchain based solution and hence every solution for the problem statement stated below must be built around / using XDC blockchain.
-2. Participants are given complete freedom for choosing technology, software architecture, programming languages etc. in the development of the application.
-3. People have to use XDC blockchain mandatorily. ( link :[XDC docker nodes](https://github.com/XinFinOrg/XDC01-docker-Nnodes ) )
-4. Problem statements are meant to be generic in order to give participants flexibility to work around.
-5. Any other questions post them on this channel : [Channel Link](https://xinfin-public.slack.com/messages/CELR2M831/)
+## Winners : 
+Below are the names of winners of SPIT hackathon and links to detailed description of their project.
 
-## Submission Guidelines
- [Submission Guidelines](../SubmissionGuide).
+1. 1st prize  : Tathagat Thapliyal, Ansh Gujral, Tanmay Bhatnagar of Thapar Institute of Engineering & Technology [View Submission](https://github.com/XinFinOrg/Open-Hackathon/blob/master/SPIT/tathagat.thapliyal874.md).
+
+2. 2nd prize : Riken Gala, Aadii Kachalia, Rohan Kalantri , Apurva Dani of Dwarkadas J. Sanghvi College of Engineering [View Submission](https://github.com/XinFinOrg/Open-Hackathon/blob/master/SPIT/rikengala664.md).
+
+3. 3rd prize : Kyle Lobo , Calden Rodrigues, Pratik Nerurkar, JohnAnand Abraham of Don Bosco Institute of Technology (D.B.I.T) [View Submission](https://github.com/XinFinOrg/Open-Hackathon/blob/master/SPIT/kylelobo11898711.md).
+
+To view other submissions click [here](https://github.com/XinFinOrg/Open-Hackathon/tree/master/SPIT).
+
 
 ## PROBLEM STATEMENTS :
 
