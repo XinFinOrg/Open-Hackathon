@@ -2,7 +2,7 @@
 
 ## VISION
 
-To innovate and replace existing non-efficient closed systems with more transparent, efficient system using blockchain.
+To innovate and replace existing non-efficient closed systems with more transparent, efficient system using XinFin blockchain.
 
 ## NOTES
 1. Participants are given complete freedom for choosing technology, programming languages etc. in the development of the application.
@@ -24,11 +24,12 @@ Too much energy consumption makes PoW consensus non practical and not suitable f
 We need to find out other innovative consensus where transaction and network remains de-centralised but without much energy consumption.
 Restriction numbers of node make its more centralized while large number of nodes makes the system very slow.
 Many industry experts are trying out different consensus like DPoS.
-We need to find out innovative solution to replace PoW Consensus with other Consensus which gives more efficiency, speed and less energy consumption.
+We need to find out innovative solution to replace PoW Consensus with other Consensus which gives more efficiency, speed and less energy consumption. More detail at link : https://xinfin.org/techbounty.php 
 
 ### Consensus Related References
 
-a. DPOS
+a. POS- Proof Of Stake
+  * [Parity Tech Aura - Authority Round](https://wiki.parity.io/Aura)
   * [XDPOS](https://github.com/riteshkakkad/XDPOS).
   * [EOS](https://github.com/EOSIO).
   * [TRON](https://github.com/tronprotocol/java-tron).
@@ -58,11 +59,18 @@ c. [Bitcoin](https://github.com/bitcoin/bitcoin).
 
 Various blockchain need to connect to each other to create more efficiency in system. Like Bitcoin, Ripple and IOTA. We need to Create Bridge between various blockchain.
 
+Connecting Legacy systems like:
+## ISO20022 Data Set APIs
+## ERP Connectors
+## Core Banking Connectors
+## SWIFT System connectors
+
 ### Blockchain Interoperability References
 
 a. [Parity-Bridge](https://github.com/paritytech/parity-bridge).
 
 b. [BTCRelay](https://github.com/ethereum/btcrelay).
+
 
 ## Task 3 : XDCE Token Staking Function.
 
