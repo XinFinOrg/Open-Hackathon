@@ -51,11 +51,12 @@ We'd also recommend referencing the issue you created in step 1 [using keywords]
 ### 4) Congratulate your team (and yourself) on a job well-done
 Whether or not you get a prize, you deserve to be proud of your work. Thanks for participating in the hackathon!
 
-Developer Community. 
-**Telegram Channel: https://t.me/XinFinDevelopers
+**Developer Community. 
 
-**Slack Channel: https://xinfin-public.slack.com/messages/CELR2M831/
+Telegram Channel: https://t.me/XinFinDevelopers
 
-**Free Slack Invite LaunchPass : https://launchpass.com/xinfin-public
+Slack Channel: https://xinfin-public.slack.com/messages/CELR2M831/
 
-**Forum: http://XinFin.net
+Free Slack Invite LaunchPass : https://launchpass.com/xinfin-public
+
+Forum: http://XinFin.net
