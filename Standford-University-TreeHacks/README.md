@@ -1,7 +1,7 @@
 # Treehacks at Standford University
 
 ## NOTES
-1. Participants are given complete freedom for choosing technology, programming languages etc. in the development of the application.
+Participants are given complete freedom for choosing technology, programming languages etc. in the development of the application.
 
 ## Submission Guidelines
  [Submission Guidelines](https://github.com/XinFinOrg/Open-Hackathon/tree/master/SubmissionGuide).
