@@ -7,11 +7,11 @@
 ## Submission Guidelines
  [Submission Guidelines](https://github.com/XinFinOrg/Open-Hackathon/tree/master/SubmissionGuide).
  
-## Problem Statement: Cross Blockchain Interoperability.
+## Problem Statement: Cross Blockchain Interoperability of XinFin Network with R3 Corda network.
 
-Various blockchain need to connect to each other to create more efficiency in system. Like Bitcoin, Ripple and IOTA. We need to Create Bridge between various blockchain.
+As a R3 Corda Partner XinFin going to provide bridge to access public state on XinFin Blockchain to R3 consortium of over 200+ financial institutions. We need to Create Bridge between XinFin Network and R3 Corda. This will create the ability to relay R3 Corda a limited set of data and transactions from privacy channels to the XinFin public network.
 
-Connecting Legacy systems like:
+at the time of developmnet of bridge keep below mention Standarad:
 ## ISO20022 Data Set APIs
 ## ERP Connectors
 ## Core Banking Connectors
