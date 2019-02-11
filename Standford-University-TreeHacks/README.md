@@ -11,7 +11,7 @@
 
 As a R3 Corda Partner XinFin going to provide bridge to access public state on XinFin Blockchain to R3 consortium of over 200+ financial institutions. We need to Create Bridge between XinFin Network and R3 Corda. This will create the ability to relay R3 Corda a limited set of data and transactions from privacy channels to the XinFin public network.
 
-at the time of developmnet of bridge keep below mention Standarad:
+# At the time of development of bridge keep below mentioned Standard:
 ## ISO20022 Data Set APIs
 ## ERP Connectors
 ## Core Banking Connectors
