@@ -20,7 +20,7 @@ c. Core Banking Standard
 
 d. SWIFT Standard
 
-### XinFin Blockchain References
+### XinFin and R3 Blockchain References
 
 a. [XinFin-Network Stats, Wallet](https://XinFin.Network).
 
@@ -29,6 +29,11 @@ b. [How to Setup XinFin Node](https://xinfin.org/setup-masternode.php).
 c. [XinFin Developer Resource](https://docs.xinfin.org/).
 
 d. [XinFin Other Resource](https://xinfin.org/resources.php).
+
+e. [R3 Corda Github](https://github.com/corda/corda).
+
+f. [R3 Corda Developer Resource](https://docs.corda.net/).
+
 
 
 ### Blockchain Interoperability References
