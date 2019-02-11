@@ -13,8 +13,11 @@ As a R3 Corda Partner XinFin going to provide bridge to access public state on X
 
 ### At the time of development of bridge keep below mentioned Standard:
 a. ISO20022 Data Standard
+
 b. ERP Standard
+
 c. Core Banking Standard
+
 d. SWIFT Standard
 
 ### XinFin Blockchain References
