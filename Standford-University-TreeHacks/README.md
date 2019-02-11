@@ -14,11 +14,11 @@ As a R3 Corda Partner XinFin going to provide bridge to access public state on X
 ### At the time of development of bridge keep below mentioned Standard:
 a. [ISO20022 Data Standard](https://www.iso20022.org/sites/default/files/documents/general/ISO20022_API_JSON_Whitepaper_Final_20180129.pdf).
 
-b. ERP Standard
+b. [ERP data Standard](https://www.programmableweb.com/category/erp/api).
 
-c. Core Banking Standard
+c. [Open Banking Standard](https://openbanking.atlassian.net/wiki/spaces/DZ/pages/16320694/Open+Data+API+Specifications).
 
-d. SWIFT Standard
+d. [SWIFT Data Standard](https://www.swift.com/our-solutions/interfaces-and-integration/swift-apis).
 
 ### XinFin and R3 Blockchain References
 
