@@ -55,8 +55,6 @@ Whether or not you get a prize, you deserve to be proud of your work. Thanks for
 
 Telegram Channel: https://t.me/XinFinDevelopers
 
-Slack Channel: https://xinfin-public.slack.com/messages/CELR2M831/
-
 Free Slack Invite LaunchPass : https://launchpass.com/xinfin-public
 
 Forum: http://XinFin.net
