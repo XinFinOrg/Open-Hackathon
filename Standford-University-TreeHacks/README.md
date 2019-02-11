@@ -5,7 +5,7 @@
 2. Problem statements are meant to be generic in order to give participants flexibility to work around.
 
 ## Submission Guidelines
- [Submission Guidelines](./SubmissionGuide).
+ [Submission Guidelines](https://github.com/XinFinOrg/Open-Hackathon/tree/master/SubmissionGuide).
  
 ## Problem Statement: Cross Blockchain Interoperability.
 
