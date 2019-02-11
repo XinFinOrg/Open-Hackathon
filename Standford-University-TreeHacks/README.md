@@ -19,7 +19,7 @@ c. [Open Banking Standard](https://openbanking.atlassian.net/wiki/spaces/DZ/page
 
 d. [SWIFT Data Standard](https://www.swift.com/our-solutions/interfaces-and-integration/swift-apis).
 
-### XinFin and R3 Blockchain References
+### XinFin and R3 Corda Blockchain References
 
 a. [XinFin-Network Stats, Wallet](https://XinFin.Network).
 
