@@ -1,4 +1,4 @@
-# Treehacks at Standfor University 
+# Treehacks at Standford University
 
 ## NOTES
 1. Participants are given complete freedom for choosing technology, programming languages etc. in the development of the application.
