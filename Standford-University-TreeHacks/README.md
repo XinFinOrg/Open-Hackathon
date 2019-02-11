@@ -40,7 +40,9 @@ f. [R3 Corda Developer Resource](https://docs.corda.net/).
 
 a. [Parity-Bridge](https://github.com/paritytech/parity-bridge).
 
-b. [BTCRelay](https://github.com/ethereum/btcrelay).
+b. [Peace Bridge is an ETC-ETH bridge](https://github.com/YZhenY/peaceNotRelay).
+
+c. [BTCRelay](https://github.com/ethereum/btcrelay).
 
 ## For Hackathons
 
