@@ -2,7 +2,6 @@
 
 ## NOTES
 1. Participants are given complete freedom for choosing technology, programming languages etc. in the development of the application.
-2. Problem statements are meant to be generic in order to give participants flexibility to work around.
 
 ## Submission Guidelines
  [Submission Guidelines](https://github.com/XinFinOrg/Open-Hackathon/tree/master/SubmissionGuide).
