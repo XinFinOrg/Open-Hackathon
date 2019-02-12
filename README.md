@@ -57,19 +57,46 @@ c. [Bitcoin](https://github.com/bitcoin/bitcoin).
 
 ## Task 2 : Cross Blockchain Interoperability.
 
-Various blockchain need to connect to each other to create more efficiency in system. Like Bitcoin, Ripple and IOTA. We need to Create Bridge between various blockchain.
+## Problem Statement: Cross Blockchain Interoperability of XinFin Network with R3 Corda network.
 
-Connecting Legacy systems like:
-## ISO20022 Data Set APIs
-## ERP Connectors
-## Core Banking Connectors
-## SWIFT System connectors
+As a R3 Corda Partner XinFin going to provide bridge to access public state on XinFin Blockchain to R3 consortium of over 200+ financial institutions. We need to Create Bridge between XinFin Network and R3 Corda. This will create the ability to relay R3 Corda a limited set of data and transactions from privacy channels to the XinFin public network.
+
+### At the time of development of bridge keep below mentioned Standard:
+a. [ISO20022 Data Standard](https://www.iso20022.org/sites/default/files/documents/general/ISO20022_API_JSON_Whitepaper_Final_20180129.pdf).
+
+b. [ERP data Standard](https://www.programmableweb.com/category/erp/api).
+
+c. [Open Banking Standard](https://openbanking.atlassian.net/wiki/spaces/DZ/pages/16320694/Open+Data+API+Specifications).
+
+d. [SWIFT Data Standard](https://www.swift.com/our-solutions/interfaces-and-integration/swift-apis).
+
+### XinFin and R3 Corda Blockchain References
+
+a. [XinFin-Network Stats, Wallet](https://XinFin.Network).
+
+b. [How to Setup XinFin Node](https://xinfin.org/setup-masternode.php).
+
+c. [XinFin Developer Resource](https://docs.xinfin.org/).
+
+d. [XinFin Other Resource](https://xinfin.org/resources.php).
+
+e. [R3 Corda Github](https://github.com/corda/corda).
+
+f. [R3 Corda Developer Resource](https://docs.corda.net/).
+
+
 
 ### Blockchain Interoperability References
 
 a. [Parity-Bridge](https://github.com/paritytech/parity-bridge).
 
-b. [BTCRelay](https://github.com/ethereum/btcrelay).
+b. [Peace Bridge is an ETC-ETH bridge](https://github.com/YZhenY/peaceNotRelay).
+
+c. [BTCRelay](https://github.com/ethereum/btcrelay).
+
+## For Hackathons
+
+Join our [Public Slack Group](https://launchpass.com/xinfin-public) or Join our [Telegram Developer Group](https://t.me/XinFinDevelopers) for any technical Development related Issue.
 
 
 ## Task 3 : XDCE Token Staking Function.
