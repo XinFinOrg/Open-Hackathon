@@ -94,7 +94,7 @@ b. [Peace Bridge is an ETC-ETH bridge](https://github.com/YZhenY/peaceNotRelay).
 
 c. [BTCRelay](https://github.com/ethereum/btcrelay).
 
-## For Hackathons
+## For Hackathons / Query
 
 Join our [Public Slack Group](https://launchpass.com/xinfin-public) or Join our [Telegram Developer Group](https://t.me/XinFinDevelopers) for any technical Development related Issue.
 
@@ -121,7 +121,7 @@ Below are the links to the specific problem statements for previously held hacka
 
 * [SPIT Hackathon](./SPIT/ReadMe.md).
 * [Hackference](./Hackference-2018/ReadMe.md).
-
+* [Standford University-TreeHacks](./Standford-University-TreeHacks/README.md).
 
 ## Contacting Us
 
