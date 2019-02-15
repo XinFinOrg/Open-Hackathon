@@ -5,26 +5,19 @@
 To innovate and replace existing non-efficient closed systems with more transparent, efficient system using XinFin blockchain.
 
 ## NOTES
-1. Participants are given complete freedom for choosing technology, programming languages etc. in the development of the application.
-2. Problem statements are meant to be generic in order to give participants flexibility to work around.
+Participants are given complete freedom for choosing technology, programming languages etc. in the development of the application.
 
 ## Submission Guidelines
  [Submission Guidelines](./SubmissionGuide).
-
 
 ## Open Problem Statements
 
 Below we have listed the problem statements which are open to all. In order to participate, create a proposal in the format specified & make a pull request.
 
-Prizes upto $10000 USD worth of XDC will be given if your solution is expected.
+## Task 1: Optimize delegated proof of stake (DPoS) consensus
 
-## Task 1 : Change Proof of Work (PoW) Consensus in blockchain
-
-Too much energy consumption makes PoW consensus non practical and not suitable for real world system.
-We need to find out other innovative consensus where transaction and network remains de-centralised but without much energy consumption.
-Restriction numbers of node make its more centralized while large number of nodes makes the system very slow.
-Many industry experts are trying out different consensus like DPoS.
-We need to find out innovative solution to replace PoW Consensus with other Consensus which gives more efficiency, speed and less energy consumption. More detail at link : https://xinfin.org/techbounty.php 
+In DPoS, Restriction numbers of node make its more centralized while large number of nodes makes the system very slow.
+We are proposing Optimization in DPoS consensus. XinFin DPoS Development progress detail at: https://xinfin.org/dpos_tech_brief.php  
 
 ### Consensus Related References
 
@@ -48,11 +41,17 @@ g. [Smart contracts for PoS ](https://github.com/poanetwork/pos-contracts).
 
 ### Blockchain Related References
 
-a. [XDC Nodes](https://github.com/XinFinOrg/XDC01-docker-Nnodes).
+a. [XinFin-Network Stats, Wallet](https://XinFin.Network).
 
-b. [Ethereum](https://github.com/ethereum/go-ethereum).
+b. [How to Setup XinFin Node](https://xinfin.org/setup-masternode.php).
 
-c. [Bitcoin](https://github.com/bitcoin/bitcoin).
+c. [XinFin Developer Resource](https://docs.xinfin.org/).
+
+d. [XinFin Other Resource](https://xinfin.org/resources.php).
+
+e. [Ethereum](https://github.com/ethereum/go-ethereum).
+
+f. [Bitcoin](https://github.com/bitcoin/bitcoin).
 
 
 ## Task 2 : Cross Blockchain Interoperability.
