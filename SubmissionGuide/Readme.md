@@ -1,5 +1,5 @@
 
-# Welcome to Submission Guidelines
+# Submission Guidelines
 
 Welcome to the submission repository for the Hackathons associated with XinFin.
 
