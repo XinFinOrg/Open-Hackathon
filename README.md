@@ -54,7 +54,7 @@ e. [Ethereum](https://github.com/ethereum/go-ethereum).
 f. [Bitcoin](https://github.com/bitcoin/bitcoin).
 
 
-## Task 2: Cross Blockchain Interoperability of XinFin network with R3 Corda Network
+## Task 2: Cross Blockchain Interoperability of XinFin Network with R3 Corda Network
 
 As a R3 Corda Partner XinFin going to provide bridge to access public state on XinFin Blockchain to R3 consortium of over 200+ financial institutions. We need to Create Bridge between XinFin Network and R3 Corda. This will create the ability to relay R3 Corda a limited set of data and transactions from privacy channels to the XinFin public network.
 
@@ -81,7 +81,7 @@ e. [R3 Corda Github](https://github.com/corda/corda).
 
 f. [R3 Corda Developer Resource](https://docs.corda.net/).
 
-### Bounty: 3 Million XDC (Valid upto 31st march, 2019)
+### Bounty: 3 Million XDC (Valid upto 31st March, 2019)
 
 ### Blockchain Interoperability References
 
@@ -102,7 +102,7 @@ A staking mechanism requires users who offer compute power or other resources to
 
 Read more detailed requirement [here](https://github.com/XinFinOrg/Hackathon/blob/master/OpenHackathon/XDCE_Staking_Function.md)
 
-### 1 Million XDC Bounty for Staking function Contribution. Valid only upto 31st marxh 2019
+### 1 Million XDC Bounty for Staking function Contribution. Valid only upto 31st March 2019
 
 ### DAPPS Related References
 
