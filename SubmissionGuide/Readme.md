@@ -3,7 +3,7 @@
 
 Welcome to the submission repository for the Hackathons associated with XinFin.
 
-You can read more about XinFin and it's protocol on the [Docs site](https://docs.xinfin.org).
+You can read more about XinFin and it's protocol on the [Documents and Resource](https://docs.xinfin.org/docs).
 
 Participating in the hackathon is as easy as contributing to an open source project on GitHub. Exactly so, because you will register your project by creating an issue in this repository, and submit it by creating a pull request.
 
