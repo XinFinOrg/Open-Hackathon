@@ -54,9 +54,7 @@ e. [Ethereum](https://github.com/ethereum/go-ethereum).
 f. [Bitcoin](https://github.com/bitcoin/bitcoin).
 
 
-## Task 2 : Cross Blockchain Interoperability.
-
-## Problem Statement: Cross Blockchain Interoperability of XinFin Network with R3 Corda network.
+## Task 2: Cross Blockchain Interoperability of XinFin network with R3 Corda Network
 
 As a R3 Corda Partner XinFin going to provide bridge to access public state on XinFin Blockchain to R3 consortium of over 200+ financial institutions. We need to Create Bridge between XinFin Network and R3 Corda. This will create the ability to relay R3 Corda a limited set of data and transactions from privacy channels to the XinFin public network.
 
