@@ -35,7 +35,7 @@ f. [R3 Corda Developer Resource](https://docs.corda.net/).
 
 ### Corda-XinFin Bridge Functionality
 
-The Relayer Bridge deploys Corda Smart contract State —>[Onto]-> XinFin Network Smart Contract State
+The Relayer Bridge deploys [ Corda Smart ContractState](https://docs.corda.net/api-states.html#api-states) —>[Onto]-> XinFin Network Smart Contract State
 Functionalities are:
 - Contract Creation
 - Atomic Swap
