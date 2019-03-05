@@ -33,7 +33,14 @@ e. [R3 Corda Github](https://github.com/corda/corda).
 
 f. [R3 Corda Developer Resource](https://docs.corda.net/).
 
+### Corda-XinFin Bridge Functionality
 
+The Relayer Bridge deploys Corda Smart contract State —>[Onto]-> XinFin Network Smart Contract State
+Functionalities are:
+- Contract Creation
+- Atomic Swap
+- Contract Token Transfer
+- Hide Transactions Details (Needs Pre-compiled contract on EVM)
 
 ### Blockchain Interoperability References
 
