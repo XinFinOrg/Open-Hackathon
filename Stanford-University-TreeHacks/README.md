@@ -35,11 +35,12 @@ f. [R3 Corda Developer Resource](https://docs.corda.net/).
 
 ### Corda-XinFin Bridge Functionality
 
-The Relayer Bridge deploys [ Corda Smart ContractState](https://docs.corda.net/api-states.html#api-states) —>[Onto]-> XinFin Network Smart Contract State
+The Relayer Bridge deploys [ Corda Smart ContractState](https://docs.corda.net/api-states.html#api-states) —>[Onto]-> XinFin Network Smart Contract State (ContractInstance)
+
 Functionalities are:
-- Contract Creation
-- Atomic Swap
-- Contract Token Transfer
+- Contract Creation (with function support "isBurnable", "isUpgradeable", "isPausable") and create Transaction Hash
+- Atomic Swap (Include Hash of the transaction)
+- ContractStatus, Token Transfer Events and Event Logs
 - Hide Transactions Details (Needs Pre-compiled contract on EVM)
 
 ### Blockchain Interoperability References
