@@ -14,7 +14,7 @@ Participants are given complete freedom for choosing technology, programming lan
 
 Below we have listed the problem statements which are open to all. In order to participate, create a proposal in the format specified & make a pull request.
 
-## Task 1: Optimize delegated proof of stake (DPoS) consensus
+## Problem Statement 1: Optimize delegated proof of stake (DPoS) consensus
 
 In DPoS, Restriction numbers of node make its more centralized while large number of nodes makes the system very slow.
 We are proposing Optimization in DPoS consensus. XinFin DPoS Development progress detail at: https://xinfin.org/dpos_tech_brief.php  
@@ -54,8 +54,7 @@ e. [Ethereum](https://github.com/ethereum/go-ethereum).
 f. [Bitcoin](https://github.com/bitcoin/bitcoin).
 
 
-## Task 2: Cross Blockchain Interoperability of XinFin Network with R3 Corda Network
-## Problem Statement: Cross Blockchain Interoperability of XinFin Network with R3 Corda network.
+## Problem Statement 2: Cross Blockchain Interoperability of XinFin Network with R3 Corda Network
 
 As a R3 Corda Partner XinFin going to provide bridge to access public state on XinFin Blockchain to R3 consortium of over 200+ financial institutions. We need to Create Bridge between XinFin Network and R3 Corda. This will create the ability to relay R3 Corda a limited set of data and transactions from privacy channels to the XinFin public network.
 
@@ -100,9 +99,6 @@ b. [Peace Bridge is an ETC-ETH bridge](https://github.com/YZhenY/peaceNotRelay).
 
 c. [BTCRelay](https://github.com/ethereum/btcrelay).
 
-
-### Bounty: 3 Million XDC (Valid upto 31st March, 2019)
-
 ### Blockchain Interoperability References
 
 a. [Parity-Bridge](https://github.com/paritytech/parity-bridge).
@@ -116,7 +112,7 @@ c. [BTCRelay](https://github.com/ethereum/btcrelay).
 Join our [Public Slack Group](https://launchpass.com/xinfin-public) or Join our [Telegram Developer Group](https://t.me/XinFinDevelopers) for any technical Development related Issue.
 
 
-## Task 3 : XDCE Token Staking Function.
+## Problem Statement 3 : XDCE Token Staking Function.
 
 A staking mechanism requires users who offer compute power or other resources to the service takers in the ecosystem to put up a portion of their tokens in order to do so. If a user has no tokens to stake, but wants to support the network by providing resources they must purchase them. In exchange for staking their tokens and providing the service a financial reward is received. By forcing providers to take a financial risk you are weeding out bad actors.
 
