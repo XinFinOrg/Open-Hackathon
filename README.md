@@ -118,8 +118,6 @@ A staking mechanism requires users who offer compute power or other resources to
 
 Read more detailed requirement [here](https://github.com/XinFinOrg/Hackathon/blob/master/OpenHackathon/XDCE_Staking_Function.md)
 
-### 1 Million XDC Bounty for Staking function Contribution. Valid only upto 31st March 2019
-
 ### DAPPS Related References
 
 1. [Boilerplate DAPP](https://github.com/XinFinOrg/dapp-boilerplate).
