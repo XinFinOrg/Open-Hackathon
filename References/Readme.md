@@ -17,7 +17,7 @@ This page contains the links to important references which participants can refe
 
 5. [Proof of Stake-Velocity ( POSV )](https://github.com/tomochain/tomochain).
 
-[Comparision ( POSV vs Clique )](./Comparision_POSV_Clique.html).
+6. [Comparision ( POSV vs Clique )](./Comparision_POSV_Clique.html).
 
 
 ## XinFin Blockchain Related References
