@@ -25,9 +25,7 @@
 
 Staking smart contract, API key access based on verification of staking with full documentation and help file. 
 
-**Timeframe:** 10days
-
-**Bounty:** 1000 USD worth XDCE
+**Timeframe:** 15days
 
 ## Skillset:
 
