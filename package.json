@@ -1,0 +1,15 @@
+{
+  "name": "firstcontract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xdc3": "^1.2.1211"
+  }
+}
