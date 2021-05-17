@@ -1,3 +1,6 @@
+- [ ] Add Governance
+- [ ] Holographic Consensus
+
 - [ ] Ability to Connect using Wallet like XinPay or Dcent
 - [ ] Create a DAO
 - [ ] Set Goverance rule

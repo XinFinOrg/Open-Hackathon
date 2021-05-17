@@ -5,8 +5,9 @@ pragma solidity ^0.8.1;
 import '@openzeppelin/contracts/access/Ownable.sol';
 import '@openzeppelin/contracts/token/ERC20/ERC20.sol';
 
-abstract contract DAOVariables is Ownable {
+abstract contract DAOVariable is Ownable {
 	enum DAOPhase {Initialization, ProposalDebate, Execution, FrozenForVote, Deployed}
+	enum VoteType {Abstain, Yay, Nay}
 
 	DAOPhase public phase;
 
@@ -20,7 +21,7 @@ abstract contract DAOVariables is Ownable {
 	address public oracle;
 }
 
-abstract contract DAOData {
+abstract contract DAOData is DAOVariable {
 	struct User {
 		// Does user exist.
 		bool exists;
@@ -30,17 +31,19 @@ abstract contract DAOData {
 		bool blocked;
 		// isBlocked
 		uint256 blocked_timestamp;
+		// TODO: reputation
+		uint256 reputation;
 	}
 
 	struct VoteData {
 		uint256 value;
-		bool decision;
+		VoteType decision;
 	}
-	// User to Proposal => Value, Yes(1) or No(0)
+	// User to Proposal => Value, Abstain, Yes or No
 	mapping(address => mapping(address => VoteData)) public Votes;
 	mapping(address => User) public users;
 
-	function get_vote_data(address proposal_address) external view returns (uint256 value, bool decision) {
+	function get_vote_data(address proposal_address) external view returns (uint256 value, VoteType decision) {
 		return (Votes[msg.sender][proposal_address].value, Votes[msg.sender][proposal_address].decision);
 	}
 
@@ -51,6 +54,18 @@ abstract contract DAOData {
 	}
 }
 
-abstract contract DAOEvents is DAOData, DAOVariables {}
+abstract contract DAOProposal is DAOData {
+	struct Proposal {
+		//
+		address recepient;
+		//
+		uint256 amount;
+		//
+		DAOPhase status;
+		//
+	}
+}
 
-contract DAOInterface is DAOEvents {}
+abstract contract DAOViews is DAOProposal {}
+
+contract DAOInterface is DAOViews {}
