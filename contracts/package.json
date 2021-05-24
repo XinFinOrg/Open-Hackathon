@@ -1,0 +1,41 @@
+{
+	"name": "cryptoproject-sem6",
+	"version": "1.0.0",
+	"description": "Decentralized Encrypted File Storage.",
+	"main": "truffle-config.js",
+	"directories": {
+		"test": "test"
+	},
+	"scripts": {
+		"generate": "rimraf @types && typechain --target=truffle-v4 --outDir @types 'build/contracts/*.json'",
+		"typecheck": "tsc --noEmit",
+		"test:ethereum": "ganache-cli -m 'salute special cloud nice grit polar action glide equip point hammer cotton crane divert hollow'"
+	},
+	"repository": {
+		"type": "git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@openzeppelin/contracts": "^4.0.0",
+		"@typechain/truffle-v4": "^3.0.0",
+		"@types/dotenv": "^8.2.0",
+		"dotenv": "^8.2.0",
+		"truffle-hdwallet-provider": "^1.0.17",
+		"typechain": "^4.0.3"
+	},
+	"devDependencies": {
+		"@types/chai": "^4.2.15",
+		"@types/mocha": "^8.2.2",
+		"bignumber.js": "^9.0.1",
+		"husky": "^4.1.0",
+		"prettier": "^2.2.1",
+		"pretty-quick": "^3.1.0"
+	},
+	"husky": {
+		"hooks": {
+			"pre-commit": "pretty-quick --staged"
+		}
+	}
+}

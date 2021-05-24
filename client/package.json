@@ -1,0 +1,61 @@
+{
+	"name": "client",
+	"version": "0.1.0",
+	"private": true,
+	"dependencies": {
+		"@reduxjs/toolkit": "^1.5.1",
+		"@testing-library/jest-dom": "^5.11.4",
+		"@testing-library/react": "^11.1.0",
+		"@testing-library/user-event": "^12.1.10",
+		"@types/jest": "^26.0.15",
+		"@types/node": "^12.0.0",
+		"@types/react": "^17.0.0",
+		"@types/react-dom": "^17.0.0",
+		"husky": "^6.0.0",
+		"prettier": "^2.2.1",
+		"pretty-quick": "^3.1.0",
+		"react": "^17.0.2",
+		"react-dom": "^17.0.2",
+		"react-redux": "^7.2.3",
+		"react-router": "^5.2.0",
+		"react-router-dom": "^5.2.0",
+		"react-scripts": "4.0.3",
+		"redux": "^4.0.5",
+		"reflect-metadata": "^0.1.13",
+		"typedi": "^0.10.0",
+		"typescript": "^4.1.2",
+		"web-vitals": "^1.0.1",
+		"web3": "^1.3.5"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"generate": "npx typechain --target=web3-v1 --outDir ./src/types './src/contracts/*.json'",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"eslintConfig": {
+		"extends": [
+			"react-app",
+			"react-app/jest"
+		]
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"devDependencies": {
+		"@typechain/web3-v1": "^2.2.0",
+		"@types/react-router": "^5.1.13",
+		"@types/react-router-dom": "^5.1.7",
+		"typechain": "^4.0.3"
+	}
+}
