@@ -1,15 +1,88 @@
 {
-  "name": "firstcontract",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "name": "xdc-nft",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
-    "xdc3": "^1.2.1211"
-  }
+    "@hookform/resolvers": "^2.6.0",
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "@metamask/eslint-config": "^6.0.0",
+    "@metamask/eslint-config-nodejs": "^6.0.0",
+    "@metamask/onboarding": "^1.0.0",
+    "@pinata/sdk": "^1.1.23",
+    "@popperjs/core": "^2.9.2",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "@types/classnames": "^2.3.1",
+    "@types/jest": "^26.0.23",
+    "@types/node": "^12.20.15",
+    "@types/react": "^17.0.11",
+    "@types/react-dom": "^17.0.7",
+    "@types/react-router": "^5.1.15",
+    "@types/react-router-dom": "^5.1.7",
+    "@types/react-tabs": "^2.3.2",
+    "axios": "^0.21.1",
+    "babel-eslint": "^10.1.0",
+    "bootstrap": "^5.0.1",
+    "classnames": "^2.3.1",
+    "dotenv": "^8.2.0",
+    "mobx": "^6.3.2",
+    "mobx-react": "^7.2.0",
+    "node-sass-package-importer": "^5.3.2",
+    "nouislider": "^15.2.0",
+    "perfect-scrollbar": "^1.5.1",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-country-flag": "^2.3.1",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.9.0",
+    "react-intl": "^5.20.6",
+    "react-player": "^2.9.0",
+    "react-popper": "^1.3.11",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "reactstrap": "^8.9.0",
+    "taskkill": "^3.1.0",
+    "web-vitals": "^1.1.2",
+    "xdc-connect": "^1.0.6",
+    "xdc3": "^1.3.13416"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-decorators": "^7.12.1",
+    "@types/uuid": "^8.3.1",
+    "@typescript-eslint/eslint-plugin": "^4.27.0",
+    "@typescript-eslint/parser": "^4.27.0",
+    "eslint": "^7.28.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-react": "^7.24.0",
+    "node-sass": "^6.0.0",
+    "postcss": "^7.0.36",
+    "sass-loader": "^10.2.0",
+    "typescript": "^4.3.2"
+  },
+  "homepage": ""
 }
